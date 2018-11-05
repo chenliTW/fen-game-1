@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1541417464 source:c:\users\chen\desktop\snake\fn.cpp
+	"fn.h"
+
+1541331165 c:\users\chen\desktop\snake\fn.h
+	<string.h>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	<queue>
+	<time.h>
+	<stdlib.h>
+
+1541417407 source:c:\users\chen\desktop\snake\main.cpp
+	<conio.h>
+	"fn.h"
+
